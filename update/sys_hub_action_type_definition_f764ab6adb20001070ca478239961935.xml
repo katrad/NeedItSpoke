@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_action_type_definition">
+    <sys_hub_action_type_definition action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <acls/>
+        <active>true</active>
+        <annotation/>
+        <callable_by_client_api>false</callable_by_client_api>
+        <category/>
+        <copied_from/>
+        <copied_from_name/>
+        <description>Get the value of an application property</description>
+        <internal_name>get_property</internal_name>
+        <label_cache>[]</label_cache>
+        <latest_snapshot/>
+        <master_snapshot/>
+        <name>Get Property</name>
+        <outputs/>
+        <state>draft</state>
+        <sys_class_name>sys_hub_action_type_definition</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-20 18:32:43</sys_created_on>
+        <sys_id>f764ab6adb20001070ca478239961935</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Get Property</sys_name>
+        <sys_package display_value="NeedIt Spoke" source="x_332570_needit_sp">07a32f62db20001070ca47823996196b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt Spoke">07a32f62db20001070ca47823996196b</sys_scope>
+        <sys_update_name>sys_hub_action_type_definition_f764ab6adb20001070ca478239961935</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-20 18:40:08</sys_updated_on>
+        <system_level>false</system_level>
+        <type/>
+    </sys_hub_action_type_definition>
+    <sys_translated_text action="delete_multiple" query="documentkey=f764ab6adb20001070ca478239961935"/>
+    <sys_variable_value action="delete_multiple" query="document_key=f764ab6adb20001070ca478239961935"/>
+</record_update>
