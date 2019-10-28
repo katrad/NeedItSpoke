@@ -13,15 +13,29 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-10-20 18:53:47</sys_created_on>
         <sys_id>a4496b2edb20001070ca4782399619a0</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>4</sys_mod_count>
         <sys_name/>
         <sys_package display_value="NeedIt Spoke" source="x_332570_needit_sp">07a32f62db20001070ca47823996196b</sys_package>
         <sys_policy/>
         <sys_scope display_value="NeedIt Spoke">07a32f62db20001070ca47823996196b</sys_scope>
         <sys_update_name>sys_hub_action_instance_a4496b2edb20001070ca4782399619a0</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-10-20 18:53:47</sys_updated_on>
+        <sys_updated_on>2019-10-28 22:47:45</sys_updated_on>
         <ui_id>dc8c1cd0-f965-4c44-beab-a707060325b3</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=a4496b2edb20001070ca4782399619a0"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>a4496b2edb20001070ca4782399619a0</document_key>
+        <order>0</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-28 22:47:45</sys_created_on>
+        <sys_id>a98b6955db30001070ca4782399619a7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-28 22:47:45</sys_updated_on>
+        <value>x_58872_needit.autoCloseOverdue</value>
+        <variable display_value="">0f7a6d15db30001070ca4782399619f4</variable>
+    </sys_variable_value>
 </record_update>
