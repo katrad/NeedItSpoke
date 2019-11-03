@@ -1,41 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_action_instance">
     <sys_hub_action_instance action="INSERT_OR_UPDATE">
         <action_inputs/>
-        <action_type display_value="Get Property">f764ab6adb20001070ca478239961935</action_type>
+        <action_type display_value="Get Days Ago Date">b10e3b87db30001070ca4782399619e0</action_type>
         <action_type_parent/>
         <comment/>
         <compiled_snapshot/>
         <display_text/>
         <flow display_value="Action Test Flow">03a6ebaadb20001070ca47823996195d</flow>
-        <order>1</order>
+        <order>2</order>
         <parent_ui_id/>
         <sys_class_name>sys_hub_action_instance</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2019-10-20 18:53:47</sys_created_on>
-        <sys_id>a4496b2edb20001070ca4782399619a0</sys_id>
-        <sys_mod_count>6</sys_mod_count>
+        <sys_created_on>2019-11-03 20:45:44</sys_created_on>
+        <sys_id>b0290c5fdb30001070ca478239961955</sys_id>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name/>
         <sys_package display_value="NeedIt Spoke" source="x_332570_needit_sp">07a32f62db20001070ca47823996196b</sys_package>
         <sys_policy/>
         <sys_scope display_value="NeedIt Spoke">07a32f62db20001070ca47823996196b</sys_scope>
-        <sys_update_name>sys_hub_action_instance_a4496b2edb20001070ca4782399619a0</sys_update_name>
+        <sys_update_name>sys_hub_action_instance_b0290c5fdb30001070ca478239961955</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2019-11-03 20:45:44</sys_updated_on>
-        <ui_id>dc8c1cd0-f965-4c44-beab-a707060325b3</ui_id>
+        <ui_id>a148bcc3-e368-4a9c-bb8d-9662004cd260</ui_id>
     </sys_hub_action_instance>
-    <sys_variable_value action="delete_multiple" query="document_key=a4496b2edb20001070ca4782399619a0"/>
+    <sys_variable_value action="delete_multiple" query="document_key=b0290c5fdb30001070ca478239961955"/>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>sys_hub_action_instance</document>
-        <document_key>a4496b2edb20001070ca4782399619a0</document_key>
+        <document_key>b0290c5fdb30001070ca478239961955</document_key>
         <order>0</order>
         <sys_class_name>sys_variable_value</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2019-10-28 22:47:45</sys_created_on>
-        <sys_id>a98b6955db30001070ca4782399619a7</sys_id>
+        <sys_created_on>2019-11-03 20:45:44</sys_created_on>
+        <sys_id>7c290c5fdb30001070ca478239961959</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-10-28 22:47:45</sys_updated_on>
-        <value>x_58872_needit.autoCloseOverdue</value>
-        <variable display_value="">0f7a6d15db30001070ca4782399619f4</variable>
+        <sys_updated_on>2019-11-03 20:45:44</sys_updated_on>
+        <value>12</value>
+        <variable display_value="">5770c4d7db30001070ca47823996197e</variable>
     </sys_variable_value>
 </record_update>
